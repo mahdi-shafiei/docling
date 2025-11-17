@@ -1,6 +1,6 @@
 [project]
 name = "docling"
-version = "2.61.2"  # DO NOT EDIT, updated automatically
+version = "2.62.0"  # DO NOT EDIT, updated automatically
 description = "SDK and CLI for parsing PDF, DOCX, HTML, and more, to a unified document representation for powering downstream workflows such as gen AI applications."
 license = "MIT"
 keywords = [
@@ -138,6 +138,7 @@ docs = [
   "mkdocs-material~=9.5",
   "mkdocs-jupyter~=0.25",
   "mkdocs-click~=0.8",
+  "mkdocs-redirects~=1.2",
   "mkdocstrings[python]~=0.27",
   "griffe-pydantic~=1.1",
 ]
